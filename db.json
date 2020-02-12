@@ -1,0 +1,22 @@
+{
+  "outcomes": [
+    {
+        "prefix" : "CAC",
+        "identifier" : "K",
+        "text" : "Students have developed software requirements"
+    }
+  ],
+  "programs":[
+  {
+    "abbrev" : "CS",
+    "name": "Computer Science",
+    "current_semester": "Fall2020"
+  },
+  {
+    "abbrev": "EE",
+    "name": "Electrical Engineering",
+    "current_semester": "Fall2020"
+   }
+]
+
+}
