@@ -102,10 +102,5 @@
       "name": "Electrical Engineering",
       "current_semester": "Fall2020"
     }
-  ],
-  "outcomes/CAC-A" : {
-    "prefix": "CAC",
-    "identifier": "A",
-    "text": "An ability to apply knowledge of computing and mathematics appropriate to the discipline"
-  }
+  ]
 }
