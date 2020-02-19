@@ -103,66 +103,8 @@
       "current_semester": "Fall2020"
     },
     {
-      "abbrev": "CS",
-      "name": "Computer Science",
-      "current_semester": "Fall2020"
-    },
-    {
-      "abbrev": "EE",
-      "name": "Electrical Engineering",
-      "current_semester": "Fall2020"
-    },
-    {
-      "abbrev": "CS",
-      "name": "Computer Science",
-      "current_semester": "Fall2020"
-    },
-    {
-      "abbrev": "EE",
-      "name": "Electrical Engineering",
-      "current_semester": "Fall2020"
-    },{
-      "abbrev": "CS",
-      "name": "Computer Science",
-      "current_semester": "Fall2020"
-    },
-    {
-      "abbrev": "EE",
-      "name": "Electrical Engineering",
-      "current_semester": "Fall2020"
-    },{
-      "abbrev": "CS",
-      "name": "Computer Science",
-      "current_semester": "Fall2020"
-    },
-    {
-      "abbrev": "EE",
-      "name": "Electrical Engineering",
-      "current_semester": "Fall2020"
-    },
-    {
-      "abbrev": "CS",
-      "name": "Computer Science",
-      "current_semester": "Fall2020"
-    },
-    {
-      "abbrev": "EE",
-      "name": "Electrical Engineering",
-      "current_semester": "Fall2020"
-    },
-    {
-      "abbrev": "EE",
-      "name": "Electrical Engineering",
-      "current_semester": "Fall2020"
-    },
-    {
-      "abbrev": "CS",
-      "name": "Computer Science",
-      "current_semester": "Fall2020"
-    },
-    {
-      "abbrev": "EE",
-      "name": "Electrical Engineering",
+      "abbrev": "SE",
+      "name": "Software Engineering",
       "current_semester": "Fall2020"
     }
   ]
